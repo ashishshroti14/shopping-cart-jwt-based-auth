@@ -1,0 +1,17 @@
+.img-responsive {
+    height: 10rem  !important ;
+}
+
+.thumbnail .description {
+    color: #7f7f7f;
+}
+
+.price {
+    font-weight: bold;
+    font-size: 16px;
+}
+.card {
+    height: 25rem;
+    object-fit: contain;
+}
+
